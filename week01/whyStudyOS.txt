@@ -1,1 +1,2 @@
 #ZidaneZaffar
+#we are a programmer, to make effective and efficient program we must know how the Operating System works
