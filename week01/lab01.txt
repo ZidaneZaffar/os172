@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 muhammad.zidane StafCS 4096 Sep  6 00:42 .
+drwx--x--x  4 muhammad.zidane StafCS 4096 Sep  6 00:40 ..
+drwxr-xr-x  8 muhammad.zidane StafCS 4096 Sep  6 00:42 .git
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 key
+-rw-r--r--  1 muhammad.zidane StafCS    0 Sep  6 00:43 lab01.txt
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 log
+-rw-r--r--  1 muhammad.zidane StafCS    7 Sep  6 00:30 README.md
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:36 sandbox
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:41 week00
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week01
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week02
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week03
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week04
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week05
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week06
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week07
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week08
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week09
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week10
+drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 xtra
+/home/fasilkom/mahasiswa/m/muhammad.zidane/os172/week01
