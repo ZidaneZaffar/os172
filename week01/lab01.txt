@@ -19,4 +19,5 @@ drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week08
 drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week09
 drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 week10
 drwxr-xr-x  2 muhammad.zidane StafCS 4096 Sep  6 00:32 xtra
-/home/fasilkom/mahasiswa/m/muhammad.zidane/os172/week01
+/home/fasilkom/mahasiswa/m/muhammad.zidane/os172/week01 
+Today is 06 Sep 2017 at 01:21:28
