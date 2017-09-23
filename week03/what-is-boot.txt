@@ -1,0 +1,8 @@
+
+Hello, this is explanation about linux booting!
+1.BIOS	: Basic Input/Output System executes MBE
+2.MBR	: Master Boot Record executes GRUB
+3.GRUB	: Grand Unified Bootloade executes Kernel
+4.Kernel: Kernel executes /sbin/init
+5.Init	: Init executes runlevel programs
+6.Runlevel : Runlevel programs are executed from /etc/rc.d/rc*.d/
