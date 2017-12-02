@@ -1,0 +1,19 @@
+
+
+ 
+
+
+
+Pada artikel kali ini saya akan mengulas video yang berjudul "Symmetric Key and Public Key Encryption ". Author dari video ini adalah ITfreetraining. Video ini berdurasi selama 6 menit 44 detik dan telah dilihat sebanyak 315.059 sejak dipublikasikan pada tanggal 18 Juni 2013. Video dapat dilihat pada link berikut: https://youtu.be/ERp8420ucGs
+
+dalam dunia digital, keamanan adalah suatu hal yang utama dalam berbagi informasi. dibutuhkan perlakua khusus dalam menirim maupun menerima pesan untuk menjaga keamanan tersebut. Terdapat dua jenis encryption/decryption yang biasa digunakan di dunia komputer yaitu dengan menggunakan Symetric keys dan  Public keys. masing-masing memiliki kelemahan dan keunggulan. Symetric keys bekerja lebih cepat karena dalam me-encrypt dan me-decrypt  hanya dibutuhkan 1 key. tetapi dengan begitu informassi yang menggunakan symetric keys lebih mudah untuk di curi. sedangkan Public keys bekerja dengan menggunakan dua kunci yaitu public keys dan private keys. public keys diggunakan untuk mengirim pesan, public keys tersebut dapat diakses oleh banyak pihak. sedangkan private keys hanya dimiliki oleh penerima pesan. hal ini jau lebih amann karena pihak ketiga walaupun memiliki public keys nya tetap tidak dapat me-decrypt informasi yang ada.
+
+Menurut saya penjelasan mengenai Symetric keys dan Public keys pada video tersebut cukup mudah untuk dimengerti. author juga memberikan pros dan cons terhadap masing massing jenis keys. Sehingga, penonton dapat memahami pada kondisi apa symetric keys lebih baik digunakan maupu pada kondisi apa public keys lebih baik untuk digunakan.
+
+Github Account : ZidaneZaffar
+URL Ulasan : https://zidanebelajarbareng.blogspot.com/2017/12/pada-artikel-kali-ini-saya-akan.html
+URL Video : https://youtu.be/ERp8420ucGs, durasi: 6:44
+Video Author : itfreetraining
+Pemetaan konten : Week02
+Revisi Pertama : 2 Desember 2017
+Revisi Terakhir : 2 Desember 2017
