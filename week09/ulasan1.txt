@@ -3,26 +3,20 @@
 
 
 
-Pada kesempatan kali ini saya akan mengulas video dengan judul "Process Synchronisation - Operating Systems". Video ini dapat diakses melalui link berikut : https://youtu.be/eKKc0d7kzww. Video berdurasi selama 5 menit 6 detik dan di publish oleh akun youtube in5minutes. Video ini telah ditonton sebanyak 18.348 semenjak di publish pada tanggal 14 September 2016. Video ini menjelaskan bagaimana proses sinkronisasi dijelaskan secara simpel dalam 5 menit.
 
-Video ini menjelaskan bahwa proses sinkronisasi dalam sebuah program layaknya barisan orang yang mengantri ke dalam satu ruangan (toilet), orang yang ada di dalam toilet harus menyelesaikan apa yang sedang dialakukan terlebih dahulu sebulum orang dibelakangnya dapat memasuki ruangan. seperti itulah yang tejadi dalam sinkroisasi proses dalam suatu program. ruangan(toilet) disbut juga Critical Region. program tidak dapat mengakses critical region secara bersamaan. critical region dapat terjadi jika ada akses file, akses database, atau akses variable. sinkronisasi proses berfungsi menghindari bentrok suatu program dengan program lain saat mengakses suatu nilai. secara garis besar code sinkronisai proses adalah sebagai berikut:
+Pada kesempatan kali ini saya akan mengulas video dengan judul " CPU Scheduling ". Video ini dapat diakses melalui link berikut : https://youtu.be/QpuFq3-fdhw. Video berdurasi selama 7 menit 55 detik dan di publish oleh akun youtube Mike Murphy. Video ini telah ditonton sebanyak 9.401 kali semenjak di publish pada tanggal 30 Oktober 2011. Video ini menjelaskan apa itu CPU Scheduling
 
-do
- {
-     Enter CR;
-
-     Exit CR;
-
- } while(TRUE);
+dalam video ini di jelaskan bahwa CPU Scheduling adalah proses menentukan jadwal dari program apa yang harus di jalankan.karena pada zaman sekarang sudah memakai multi programming system maka harus ada jalan untuk membagi kerja cpu. hal ini bertujuan untuk memaksimalkan waktu kerja cpu, meminimalisir waktu tunggu, meminimalisir waktu putar ,dan memaksimmalkan ressponsifitas sistem terhadap penguna. video ini juga menjelaskan sedikit tentang beberapa algoritma yang ada untuk CPU scheduling.
 
 
-menurut saya video ini sangat menarik, selain author menjelaskan sinkronisai dengan simpel, hal ini dikemas dengan cukup padat juga dengan durassi sekitar 5 menit. author juga membuat visualisasi yang cukup mudah dipahami yang ssangat membantu dalam mengerti alur proses yang terjadi saat sinkronisasi proses
+
+menurut saya video ini sangat menarik, selain author menjelaskan CPU Scheduling dengan lengkap, hal ini dikemas dengan cukup padat juga dengan durassi sekitar 8 menit. author juga membuat poin-poin yang cukup mudah dipahami dan sangat membantu dalam mengerti CPU Scheduling.
 
 Github Account : ZidaneZaffar
 URL Ulasan : https://zidanebelajarbareng.blogspot.com/2017/12/ulasan-1-process-synchronisation.html
-URL Video : https://youtu.be/eKKc0d7kzww durasi 5:06
-Video Author : in5minute
-Pemetaan konten : Week07
+URL Video : https://youtu.be/QpuFq3-fdhw durasi 7:55
+Video Author : Mike Murphy
+Pemetaan konten : Week08
 Revisi Pertama : 2 Desember 2017
 Revisi Terakhir : 2 Desember 2017
 
