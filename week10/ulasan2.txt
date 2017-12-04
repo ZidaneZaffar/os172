@@ -1,19 +1,15 @@
 
 
- 
+Pada artikel kali ini saya akan mengulas video yang berjudul " What is RAID 0, 1, 2, 3, 4, 5, 6 and 10 (1+0)? ". Author dari video ini adalah mobilephone2003. Video ini berdurasi selama 9 menit 56 detik dan telah dilihat sebanyak 631.790 kali sejak dipublikasikan pada tanggal 9 september 2013. Video dapat dilihat pada link berikut: https://youtu.be/wTcxRObq738
 
+ada beberapa jenis cara penymipanan data dala sebuah rangkaian hardisk ganda,  salah satu  yang palinng terkenal adalah RAID, RAID memiliki  banyak jenis rangkaian diantaranya yaitu 0, 1, 2, 3, 4, 5, 6 dan 10 (1+0). dalam rangakaian RAID 0 , hardisk digabungkan seperti biasa sehingga rangkaian memiliki memory  yang besar tetapi sangat tidak aman karena ketika salah satu hardisk mati, maka data akan hilang dan tidak  ada data cadangan. sedangkan RAID 1 adalah rangkaian yang menduplikasi data yang sama pada setiap hardisknya, sehingga ketika salah satu hardisk mati masih ada data cadangan yang dapat dipakai, tetapi hal ini menyebabkan memory  yang dimiliki oleh rangkaian menjadi sedikit karena data yang sama di tuliskan pada berbagai hardisk. RAID 2 merupakan rangkaian yang lebih aman dan memiliki lebih memory, karena dalam 3 hardisk, 2 hardisk digunakan untuk menyimpan data,  dan 1 hardisk dipakai  untuk menyimpan parity code. tetapi RAID 2 sudah sangat jarang dipakai lagi.
 
-
-Pada artikel kali ini saya akan mengulas video yang berjudul "Symmetric Key and Public Key Encryption ". Author dari video ini adalah ITfreetraining. Video ini berdurasi selama 6 menit 44 detik dan telah dilihat sebanyak 315.059 sejak dipublikasikan pada tanggal 18 Juni 2013. Video dapat dilihat pada link berikut: https://youtu.be/ERp8420ucGs
-
-dalam dunia digital, keamanan adalah suatu hal yang utama dalam berbagi informasi. dibutuhkan perlakua khusus dalam menirim maupun menerima pesan untuk menjaga keamanan tersebut. Terdapat dua jenis encryption/decryption yang biasa digunakan di dunia komputer yaitu dengan menggunakan Symetric keys dan  Public keys. masing-masing memiliki kelemahan dan keunggulan. Symetric keys bekerja lebih cepat karena dalam me-encrypt dan me-decrypt  hanya dibutuhkan 1 key. tetapi dengan begitu informassi yang menggunakan symetric keys lebih mudah untuk di curi. sedangkan Public keys bekerja dengan menggunakan dua kunci yaitu public keys dan private keys. public keys diggunakan untuk mengirim pesan, public keys tersebut dapat diakses oleh banyak pihak. sedangkan private keys hanya dimiliki oleh penerima pesan. hal ini jau lebih amann karena pihak ketiga walaupun memiliki public keys nya tetap tidak dapat me-decrypt informasi yang ada.
-
-Menurut saya penjelasan mengenai Symetric keys dan Public keys pada video tersebut cukup mudah untuk dimengerti. author juga memberikan pros dan cons terhadap masing massing jenis keys. Sehingga, penonton dapat memahami pada kondisi apa symetric keys lebih baik digunakan maupu pada kondisi apa public keys lebih baik untuk digunakan.
+Menurut saya penjelasan mengenai RAID 0,1,2,3,4,5,6 pada video tersebut cukup mudah untuk dimengerti. author juga memberikan pros dan cons terhadap masing masing jenis RAID. Sehingga, penonton dapat memahami pada kondisi apa RAID x lebih baik untuk digunakan.
 
 Github Account : ZidaneZaffar
 URL Ulasan : https://zidanebelajarbareng.blogspot.com/2017/12/pada-artikel-kali-ini-saya-akan.html
-URL Video : https://youtu.be/ERp8420ucGs, durasi: 6:44
-Video Author : itfreetraining
-Pemetaan konten : Week02
+URL Video : https://youtu.be/wTcxRObq738, durasi: 9:56
+Video Author : mobilephone2003
+Pemetaan konten : Week09
 Revisi Pertama : 2 Desember 2017
 Revisi Terakhir : 2 Desember 2017
