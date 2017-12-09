@@ -1,0 +1,18 @@
+RANKING03 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+01. [W03-006] 400 http://aqueenofhearts.blogspot.co.id/2017/12/ulasan2-sistem-operasi-bios-as-quick-as-possible.html
+02. [W03-007] 400 http://febrianfikar.blogspot.co.id/2017/11/ulasan-1-why-uefi.html
+03. [W03-013] 400 http://megamutiarah.blogspot.co.id/2017/12/ulasan-2-what-happens-when-i-turn-my.html
+04. [W03-004] 395 http://titatatiti.blogspot.co.id/2017/12/ulasan-2-week-03.html
+05. [W03-010] 393 http://itshanra.blogspot.co.id/2017/12/ulasan1.html
+06. [W03-002] 392 http://os-gilangfaras.blogspot.co.id/2017/11/bios-dan-uefi.html
+07. [W03-010] 392 http://hashlash-os172.blogspot.co.id/2017/12/ulasan-2-computer-boot-process.html
+08. [W03-005] 390 http://os-adrikanovrialdi.blogspot.co.id/2017/12/ulasan-2-proses-booting-pada-linux.html
+09. [W03-001] 390 http://hairegina.blogspot.co.id/2017/11/ulasan-1-boot-process-linux-ulasan-saya.html
+10. [W03-012] 390 http://ichlasulaffan.blogspot.co.id/2017/12/ulasan-01-why-systemd.html
+------------------------------------------
+Oleh (GITHUB): ZidaneZaffar
+URL BLOG RANKING: https://zidanebelajarbareng.blogspot.com/2017/12/rangking03-ulasan-peserta-os-2017-2.html
+Revisi Pertama: 09 Desember 2017
+Revisi Terakhir: 09 Desember 2017
+-------------------------------------------
