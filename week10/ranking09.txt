@@ -1,0 +1,15 @@
+RANKING09 ULASAN PESERTA OS 2017-2
+-----------------------------------------
+01. [W09-005] 400 http://alyaph.blogspot.co.id/2017/12/ulasan-2-ssd-intel-optane.html
+02. [W09-006] 400 http://regensa.blogspot.co.id/2017/12/ulasan2.html
+03. [W09-001] 397 http://mfauzanfikri.blogspot.co.id/2017/11/ulasan-1-raid-explained-and-different.html
+04. [W09-003] 394 http://os2017-yudhasatria.blogspot.co.id/2017/11/ulasan-2-raid-0-1-5-10.html
+05. [W09-002] 393 http://rand0101int.blogspot.co.id/2017/11/ulasan1-how-do-hard-drives-work.html
+06. [W09-004] 390 http://oskyranger.blogspot.com/2017/12/ulasan-1-raid-fundamentals.html
+07. [W09-007] 380 http://myosstory.blogspot.com/2017/12/ulasan-2-file-structure-file-system.html
+------------------------------------------
+Oleh (GITHUB): ZidaneZaffar
+URL BLOG RANKING: https://zidanebelajarbareng.blogspot.com/2017/12/rangking09-ulasan-peserta-os-2017-2.html
+Revisi Pertama: 09 Desember 2017
+Revisi Terakhir: 09 Desember 2017
+-------------------------------------------
